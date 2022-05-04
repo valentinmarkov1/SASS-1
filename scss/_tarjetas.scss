@@ -1,0 +1,24 @@
+.contenedortarjeta{
+    width: 30%;
+    height: 150px;
+    display: inline-block;
+   
+    .fototarjeta{
+        width: 200px;
+        height: 200px;
+        margin-top: 30px;
+    }
+    .parrafotarjeta{
+        margin-top: 10px;
+        font-size: 15px;
+
+    }
+    .boton{
+        background-color: black;
+        color: $colorprimario;
+        border-bottom: 20px;
+        margin-top: 10px;
+    }
+}
+
+   
