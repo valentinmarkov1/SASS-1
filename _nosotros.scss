@@ -1,0 +1,24 @@
+.contenedornosotros{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    
+    text-align: end;
+    background-color: $colorsecundario;
+    margin-top: 100px;
+    .parrafonosotros{
+        width: 500px;
+        font-size: 12px;
+        margin-left: 300px;
+        
+        justify-content: right ;
+    }
+    .imagennosotros{
+        width: 700px;
+        height: 400px;
+        margin-top: 50px;
+    }
+}
+
+
